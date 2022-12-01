@@ -4,7 +4,9 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import MainPage from '../views/MainPage.vue';
 import AboutusPage from '../views/AboutusPage.vue';
 import ServicePage from '../views/ServicePage.vue';
-import DetailservicePage from '../views/DetailservicePage.vue';
+import DetailweddingPage from '../views/DetailweddingPage.vue';
+import DetaileventPage from '../views/DetaileventPage.vue';
+import DetailbirthdayPage from '../views/DetailbirthdayPage.vue';
 import MenuPage from '../views/MenuPage.vue';
 import GaleryPage from '../views/GaleryPage.vue';
 import ContactPage from '../views/ContactPage.vue';
@@ -35,9 +37,19 @@ const routes = [
     component: ServicePage
   },
   {
-    path: '/detailservice',
-    name: 'DetailservicePage',
-    component: DetailservicePage
+    path: '/detailwedding',
+    name: 'DetailweddingPage',
+    component: DetailweddingPage
+  },
+  {
+    path: '/detailevent',
+    name: 'DetaileventPage',
+    component: DetaileventPage
+  },
+  {
+    path: '/detailbirthday',
+    name: 'DetailbirthdayPage',
+    component: DetailbirthdayPage
   },
   {
     path: '/menucatering',
