@@ -1,5 +1,5 @@
 <template>
-    <div id="DetailservicePage">
+    <div id="DetailweddingPage">
         <HeaderComp />
         <BreadcrumbComp />
         <div class="container">
@@ -7,7 +7,7 @@
                 <h4 class="mb-5">Katering Pernikahan</h4>
                 <img src="../assets/img-cover-wedding.png" class="img-cover-wedding" alt="">
             </div>
-        </div>
+        </div>  
         <DetailserviceComp />
         <FooterComp />
     </div>
@@ -22,7 +22,7 @@ import FooterComp from '@/components/FooterComp.vue';
 
 
 export default {
-    name: "DetailservicePage",
+    name: "DetailweddingPage",
     components: {
         HeaderComp,
         BreadcrumbComp,
