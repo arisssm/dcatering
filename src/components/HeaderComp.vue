@@ -20,20 +20,20 @@
               </a>
               <ul class="dropdown-menu">
                 <li><router-link to="/packetservice" class="dropdown-item">Paket Prasmanan</router-link></li>
-                <li><router-link to="/menucatering" class="dropdown-item">Menu Katering</router-link></li>
+                <li><router-link to="/menucatering" target="_blank" class="dropdown-item">Menu Katering</router-link></li>
               </ul>
             </li>
             <li class="nav-item">
-              <router-link to="/galery" class="nav-link">Galeri</router-link>
+              <router-link to="/galery" target="_blank" class="nav-link">Galeri</router-link>
             </li>
             <li class="nav-item">
-              <router-link to="/blog" class="nav-link">Blog</router-link>
+              <router-link to="/blog" target="_blank" class="nav-link">Blog</router-link>
             </li>
             <li class="nav-item">
-              <router-link to="/aboutus" class="nav-link">Tentang Kami</router-link>
+              <router-link to="/aboutus" target="_blank" class="nav-link">Tentang Kami</router-link>
             </li>
             <li class="nav-item">
-              <router-link to="/contact" class="nav-link">Kontak</router-link>
+              <router-link to="/contact" target="_blank" class="nav-link">Kontak</router-link>
             </li>
             <li class="nav-item">
               <router-link to="/signin" class="btn btn-sm mt-1" style="color:#fff; background-color: #46bb33;"> Masuk <i
