@@ -242,8 +242,15 @@
     
     /* DETAIL SERVICE */
     /* ---------------- */
-    #DetailserviceComp .img-cover-wedding{
-        height: 400px;
+    #DetailweddingPage .img-cover-wedding{
+        width: 100%;
+        object-fit: contain;
+    }
+    #DetaileventPage .img-cover-event{
+        width: 100%;
+        object-fit: contain;
+    }
+    #DetailbirthdayPage .img-cover-birthday{
         width: 100%;
         object-fit: contain;
     }
