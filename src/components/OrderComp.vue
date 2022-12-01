@@ -106,7 +106,7 @@
                         </div>
                         <div>
                             <router-link to="/confirmation" class="btn btn-sm btn-order">Pesan</router-link>
-                            <router-link to="/detailservice" class="btn btn-sm btn-warning">Kembali
+                            <router-link to="/detailwedding" class="btn btn-sm btn-warning">Kembali
                             </router-link>
                         </div>
                     </div>
