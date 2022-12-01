@@ -23,7 +23,7 @@
                 </div>
                 <div class="col-md-6 text-end">
                     Harga: <span class="mx-2"><b>Rp.10.000.000</b></span>
-                    <router-link to="/order" class="btn btn-md btn-danger"> Pesan </router-link>
+                    <router-link to="/signin" class="btn btn-md btn-danger"> Pesan </router-link>
                 </div>
                 <hr class="my-1">
             </div>
