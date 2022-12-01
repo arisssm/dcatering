@@ -2,11 +2,11 @@
     <div id="SuccessComp">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 text-start">
+                <div class="col-lg-6 col-12 text-start">
                     <h3 style="margin-top: 100px;">"Terima kasih sudah melakukan pemesanan. Tunggu tim kami menghubungi anda."</h3>
                     <label for="">Pesanan anda dengan nomor <span><b>00101131222001</b></span> sudah dibuat</label>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-12">
                     <img src="../assets/success-img.png" class="img-success" alt="">
                 </div>
             </div>

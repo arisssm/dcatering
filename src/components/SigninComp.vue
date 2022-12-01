@@ -2,7 +2,7 @@
     <div id="SigninComp">
         <div class="container" style="background-color:#d6fae8;">
             <div class="row justify-content-center">
-                <div class="col-lg-5 col-md-8 col-sm-12 col-12">
+                <div class="col-lg-5 col-md col-12">
                     <div class="p-3">
                         <h4 class="mb-3">Sign In</h4>
                         <div class="form-signin">
