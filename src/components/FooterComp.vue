@@ -33,13 +33,13 @@
                 </div>
                 <div class="col-lg-2 col-md-4 col-4 text-start">
                     <h6 class="mt-5 mb-2">Service</h6>
-                    <router-link to="/packetservice" class="mb-2 text-decoration-none text-dark">
+                    <router-link to="/detailwedding" class="mb-2 text-decoration-none text-dark">
                         <p>Katering Pernikahan</p>
                     </router-link>
-                    <router-link to="/packetservice" class="mb-2 text-decoration-none text-dark">
+                    <router-link to="/detailevent" class="mb-2 text-decoration-none text-dark">
                         <p>Katering Ulang Tahun</p>
                     </router-link>
-                    <router-link to="/packetservice" class="mb-2 text-decoration-none text-dark">
+                    <router-link to="/detailbirthday" class="mb-2 text-decoration-none text-dark">
                         <p>Katering Acara</p>
                     </router-link>
                 </div>
