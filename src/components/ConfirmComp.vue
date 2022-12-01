@@ -5,7 +5,49 @@
                 <div class="col-lg-7 col-12">
                     <h5 class="mt-3">Konfirmasi Pesanan</h5>
                     <hr>
-                    <div class=" bg-confirm">
+                    <div class="bg-confirm">
+                        <!-- <div class="my-2">
+                            Nama<span class="mx-2">:</span><span class="mx-2">Salim</span>
+                        </div>
+                        <div class="my-2">
+                            Email<span class="mx-2">:</span><span class="mx-2">salimzalvan7@gmail.com</span>
+                        </div>
+                        <div class="my-2">
+                            Alamat<span class="mx-2">:</span><span class="mx-2">Jalan Apel no.1</span>
+                        </div>
+                        <div class="my-2">
+                            Nomor Telepon<span class="mx-2">:</span><span class="mx-2">089922194545</span>
+                        </div>
+                        <div class="my-2">
+                            Tanggal Pesan<span class="mx-2">:</span><span class="mx-2">13 Desember 2022</span>
+                        </div>
+                        <div class="my-2">
+                            Jenis Layanan<span class="mx-2">:</span><span class="mx-2">Prasmanan</span>
+                        </div>
+                        <div class="my-2">
+                            Jenis Katering<span class="mx-2">:</span><span class="mx-2">Katering Pernikahan</span>
+                        </div>
+                        <div class="my-2">
+                            Paket Katering<span class="mx-2">:</span><span class="mx-2">Paket A</span>
+                        </div>
+                        <div class="my-2">
+                            Lokasi Acara<span class="mx-2">:</span><span class="mx-2">Jalan Kebun Apel No.1 (Sebelah Indomaret)</span>
+                        </div>
+                        <div class="my-2">
+                            Tanggal Acara<span class="mx-2">:</span><span class="mx-2">25 Desember 2022</span>
+                        </div>
+                        <div class="my-2">
+                            Estimasi Jumlah Hadir<span class="mx-2">:</span><span class="mx-2">200</span>
+                        </div>
+                        <div class="my-2">
+                            Pembayaran<span class="mx-2">:</span><span class="mx-2">Bank Syariah Indonesia</span>
+                        </div>
+                        <div class="my-2">
+                            Status Bayar<span class="mx-2">:</span><span class="mx-2">Belum Bayar</span>
+                        </div>
+                        <div class="my-2">
+                            Catatan Pesanan<span class="mx-2">:</span><span class="mx-2">Tidak Ada</span>
+                        </div> -->
                         <table class="table table-responsive table-borderless">
                             <tbody class="">
                                 <tr>
@@ -85,7 +127,7 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <div class="col-md-6">
+                        <div class="col-md-6 col-12">
                             <div class="form-check ms-2">
                                 <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
                                 <label class="form-check-label" for="flexCheckChecked">
