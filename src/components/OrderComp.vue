@@ -28,24 +28,33 @@
                             readonly>
                     </div>
                     <div class="col-md-6 mb-3">
-                        <label for="exampleFormControlInput1" class="form-label">Jenis Layanan</label>
-                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Prasmanan"
-                            readonly>
-                    </div>
-                    <div class="col-md-6 mb-3">
                         <label for="exampleFormControlInput1" class="form-label">Email</label>
                         <input type="text" class="form-control" id="exampleFormControlInput1"
                             placeholder="salimzalvan7@mail.co.id" readonly>
                     </div>
                     <div class="col-md-6 mb-3">
-                        <label for="exampleFormControlInput1" class="form-label">Paket Katering</label>
-                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Paket A"
-                            readonly>
-                    </div>
-                    <div class="col-md-6 mb-3">
                         <label for="exampleFormControlInput1" class="form-label">Alamat</label>
                         <input type="text" class="form-control" id="exampleFormControlInput1"
                             placeholder="Jalan Apel no.1" readonly>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">No Telepon</label>
+                        <input type="text" class="form-control" id="exampleFormControlInput1"
+                            placeholder="ex: 08xxxxxxxx" readonly>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Tanggal Pesan</label>
+                        <input type="date" class="form-control" id="exampleFormControlInput1">
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Jenis Layanan</label>
+                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Prasmanan"
+                            readonly>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Paket Katering</label>
+                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Paket A"
+                            readonly>
                     </div>
                     <div class="col-md-6 mb-3">
                         <label for="exampleFormControlInput1" class="form-label">Jenis Katering</label>
@@ -57,21 +66,12 @@
                         </select>
                     </div>
                     <div class="col-md-6 mb-3">
-                        <label for="exampleFormControlInput1" class="form-label">No Telepon</label>
-                        <input type="text" class="form-control" id="exampleFormControlInput1"
-                            placeholder="ex: 08xxxxxxxx" readonly>
-                    </div>
-                    <div class="col-md-6 mb-3">
                         <label for="exampleFormControlInput1" class="form-label">Pilihan Pembayaran</label>
                         <select class="form-select" aria-label="Default select example">
                             <option selected>--Pilih--</option>
                             <option value="1">Bank Syariah Indonesia</option>
                             <option value="2">Link Aja</option>
                         </select>
-                    </div>
-                    <div class="col-md-6 mb-3">
-                        <label for="exampleFormControlInput1" class="form-label">Tanggal Pesan</label>
-                        <input type="date" class="form-control" id="exampleFormControlInput1">
                     </div>
                     <div class="col-md-6 mb-3">
                         <label for="exampleFormControlInput1" class="form-label">Status Pembayaran</label>
