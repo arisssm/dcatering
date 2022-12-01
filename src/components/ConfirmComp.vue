@@ -1,106 +1,107 @@
 <template>
     <div id="ConfirmComp">
         <div class="container my-3">
-            <h4 class="">Konfirmasi Pesanan</h4>
-            <div class="row bg-confirm">
+            <div class="row">
                 <div class="col-lg-7 col-12">
-                    <label for="" class="mt-3">Id Pesanan: <span><b>00101131222001</b></span></label>
+                    <h5 class="mt-3">Konfirmasi Pesanan</h5>
                     <hr>
-                    <table class="table table-responsive table-borderless">
-                        <tbody class="">
-                            <tr>
-                                <td scope="row">Nama</td>
-                                <td>:</td>
-                                <td>Salim</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Email</td>
-                                <td>:</td>
-                                <td>salimzalvan7@gmail.com</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Alamat</td>
-                                <td>:</td>
-                                <td>Jalan Apel no.1</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">No Telepon</td>
-                                <td>:</td>
-                                <td>089922194545</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Tanggal Pesan</td>
-                                <td>:</td>
-                                <td>13 Desember 2022</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Jenis Layanan</td>
-                                <td>:</td>
-                                <td>Prasmanan</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Jenis Katering</td>
-                                <td>:</td>
-                                <td>Katering Pernikahan</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Paket Katering</td>
-                                <td>:</td>
-                                <td>Paket A</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Lokasi Acara</td>
-                                <td>:</td>
-                                <td>Jalan Kebun Apel No.1 (Sebelah Indomaret)</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Tanggal Acara</td>
-                                <td>:</td>
-                                <td>25 Desember 2022</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Tanggal Pesan</td>
-                                <td>:</td>
-                                <td>25 Desember 2022</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Estimasi Jumlah Hadir</td>
-                                <td>:</td>
-                                <td>100 orang</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Pembayaran</td>
-                                <td>:</td>
-                                <td>Transfer Bank BSI</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Status Bayar</td>
-                                <td>:</td>
-                                <td>Belum Bayar</td>
-                            </tr>
-                            <tr>
-                                <td scope="row">Catatan Pesanan</td>
-                                <td>:</td>
-                                <td>Tidak Ada</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <div class="col-md-6">
-                        <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
-                            <label class="form-check-label" for="flexCheckChecked">
-                                Data yang saya isi sudah benar
-                            </label>
-                        </div>
-                        <div class="mb-3">
-                            <router-link to="/success" class="btn btn-md btn-order" disabled>Konfirmasi
-                            </router-link>
-                            <router-link to="/order" class="btn btn-md btn-order-cancel">Kembali</router-link>
+                    <div class=" bg-confirm">
+                        <table class="table table-responsive table-borderless">
+                            <tbody class="">
+                                <tr>
+                                    <td scope="row">Nama</td>
+                                    <td>:</td>
+                                    <td>Salim</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Email</td>
+                                    <td>:</td>
+                                    <td>salimzalvan7@gmail.com</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Alamat</td>
+                                    <td>:</td>
+                                    <td>Jalan Apel no.1</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">No Telepon</td>
+                                    <td>:</td>
+                                    <td>089922194545</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Tanggal Pesan</td>
+                                    <td>:</td>
+                                    <td>13 Desember 2022</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Jenis Layanan</td>
+                                    <td>:</td>
+                                    <td>Prasmanan</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Jenis Katering</td>
+                                    <td>:</td>
+                                    <td>Katering Pernikahan</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Paket Katering</td>
+                                    <td>:</td>
+                                    <td>Paket A</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Lokasi Acara</td>
+                                    <td>:</td>
+                                    <td>Jalan Kebun Apel No.1 (Sebelah Indomaret)</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Tanggal Acara</td>
+                                    <td>:</td>
+                                    <td>25 Desember 2022</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Tanggal Pesan</td>
+                                    <td>:</td>
+                                    <td>25 Desember 2022</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Estimasi Jumlah Hadir</td>
+                                    <td>:</td>
+                                    <td>100 orang</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Pembayaran</td>
+                                    <td>:</td>
+                                    <td>Transfer Bank BSI</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Status Bayar</td>
+                                    <td>:</td>
+                                    <td>Belum Bayar</td>
+                                </tr>
+                                <tr>
+                                    <td scope="row">Catatan Pesanan</td>
+                                    <td>:</td>
+                                    <td>Tidak Ada</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="col-md-6">
+                            <div class="form-check ms-2">
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+                                <label class="form-check-label" for="flexCheckChecked">
+                                    Data yang saya isi sudah benar
+                                </label>
+                            </div>
+                            <div class="mb-3">
+                                <router-link to="/success" class="btn btn-md btn-order" disabled>Konfirmasi
+                                </router-link>
+                                <router-link to="/order" class="btn btn-md btn-order-cancel">Kembali</router-link>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5 col-12">
-                    <h5 class="mt-3">Total Harga Paket: <span><b>Rp.10.000.000</b></span></h5>
+                    <h5 class="mt-4">Total Harga Paket: <span><b>Rp.10.000.000</b></span></h5>
                     <div class="bg-transfer p-3">
                         <div class="row">
                             <div class="col">
