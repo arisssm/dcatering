@@ -24,7 +24,7 @@
                                 </div>
                             </div>
                             <div class="text-end mt-0 mb-2 me-2">
-                                <router-link to="/detailservice" class="btn btn-sm btn-warning" style="color:#fff">
+                                <router-link to="/detailwedding" class="btn btn-sm btn-warning" style="color:#fff">
                                     Pesan Sekarang
                                     <i class="fa fa-chevron-right" style="color:#fff" aria-hidden="true"></i>
                                 </router-link>
@@ -52,7 +52,7 @@
                                 </div>
                             </div>
                             <div class="text-end mt-0 mb-2 me-2">
-                                <router-link to="/detailservice" class="btn btn-sm btn-warning" style="color:#fff">
+                                <router-link to="/detailevent" class="btn btn-sm btn-warning" style="color:#fff">
                                     Pesan Sekarang
                                     <i class="fa fa-chevron-right" style="color:#fff" aria-hidden="true"></i>
                                 </router-link>
@@ -80,7 +80,7 @@
                                 </div>
                             </div>
                             <div class="text-end mt-0 mb-2 me-2">
-                                <router-link to="/detailservice" class="btn btn-sm btn-warning" style="color:#fff">
+                                <router-link to="/detailbirthday" class="btn btn-sm btn-warning" style="color:#fff">
                                     Pesan Sekarang
                                     <i class="fa fa-chevron-right" style="color:#fff" aria-hidden="true"></i>
                                 </router-link>
