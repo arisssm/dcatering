@@ -1,24 +1,36 @@
-# dcatering
+# dcatering web app
+
+## Overview
+`dcatering` is a website-based catering ordering application designed to make it easier for users to order catering services. This application is only limited to building web designs with Vue JS programming.
 
 ## Project setup
-```
-npm install
-```
+To start this project, make sure you have Node.js and npm installed on your computer. Here are the steps to set up a project:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. **Install dependencies:**
+   ```bash
+   npm install
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2. **Compiles and hot-reloads for development:**
+   ```bash
+  npm run serve
+   
+3. **Compiles and minifies for production:**
+   ```bash
+   npm run build
 
-### Lints and fixes files
-```
-npm run lint
-```
+4. **Lints and fixes files:**
+   ```bash
+   npm run lint
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Dependencies
+Some of the main dependencies used in this project:
+
+**Vue.js**
+**Vue Router**
+**Vuex**
+**Axios**
+
+## License
+This project is licensed under the MIT License.
+
+Copyright (c) 2022 Aris M
