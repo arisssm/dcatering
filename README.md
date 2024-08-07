@@ -9,11 +9,11 @@ To start this project, make sure you have Node.js and npm installed on your comp
 1. **Install dependencies:**
    ```bash
    npm install
-
+   
 2. **Compiles and hot-reloads for development:**
    ```bash
-  npm run serve
-   
+   npm run serve
+
 3. **Compiles and minifies for production:**
    ```bash
    npm run build
@@ -21,14 +21,6 @@ To start this project, make sure you have Node.js and npm installed on your comp
 4. **Lints and fixes files:**
    ```bash
    npm run lint
-
-## Dependencies
-Some of the main dependencies used in this project:
-
-**Vue.js**
-**Vue Router**
-**Vuex**
-**Axios**
 
 ## License
 This project is licensed under the MIT License.
